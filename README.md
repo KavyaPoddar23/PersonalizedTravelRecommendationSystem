@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 1. Run the application:
 ```bash
-streamlit run finalapp3.py
+streamlit run TravelRecommendation.py
 ```
 
 2. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
@@ -58,7 +58,7 @@ streamlit run finalapp3.py
 
 ## Project Structure
 
-- `finalapp3.py`: Main application file
+- `TravelRecommendation.py`: Main application file
 - `requirements.txt`: Project dependencies
 - `README.md`: Project documentation
 
